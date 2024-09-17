@@ -71,6 +71,9 @@
       "@angular-challenges/static-dynamic-import/users": [
         "libs/static-dynamic-import/users/src/index.ts"
       ],
+      "@angular-challenges/static-dynamic-import/user": [
+        "libs/static-dynamic-import/user/src/index.ts"
+      ],
       "@angular-challenges/testing-table/backend": [
         "libs/testing-table/backend/src/index.ts"
       ],
